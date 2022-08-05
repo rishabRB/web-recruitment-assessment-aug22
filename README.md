@@ -1,6 +1,11 @@
 # Web Recruitment Assessment - August 2022
 
 ## **Deadline of Submission : 10th August 2022**
+<img width="1439" alt="Screenshot 2022-08-05 at 15 16 52" src="https://user-images.githubusercontent.com/58904133/183051778-179c0a18-4a80-45f6-bcf1-07a445844379.png">
+<img width="1439" alt="Screenshot 2022-08-05 at 15 17 54" src="https://user-images.githubusercontent.com/58904133/183051788-4d145daa-9c6a-408f-8ff0-b0d54ec903be.png">
+<img width="1439" alt="Screenshot 2022-08-05 at 15 17 42" src="https://user-images.githubusercontent.com/58904133/183051797-c3ea2eff-d9dc-4ddc-87b7-e85aeb9b6b15.png">
+
+
 
 ## About Us
 
