@@ -1,16 +1,19 @@
-import "./App.css";
-import Footer from "./components/Footer";
-import Header from "./components/Header";
+import { useContext } from 'react';
+import Home from './pages/Home';
+import { BrowserRouter,Routes,Route } from "react-router-dom";
+import QuestionPage from './pages/QuestionPage';
+import { Context } from './context/context';
 
-function App() {
+
+const App = () => {
+  const {user} = useContext(Context)
   return (
-    <div className="app">
-      <Header />
-      <main>{/* TODO: CODE HERE */}</main>
-      <div className="grow" />
-      <Footer />
-    </div>
-  );
+    <BrowserRouter>
+    <Routes>
+      <Route path="/" element={<Home />} />
+     {user.name && <Route path="/questions" element={<QuestionPage />} />}    </Routes>
+    </BrowserRouter>
+  )
 }
 
 export default App;
