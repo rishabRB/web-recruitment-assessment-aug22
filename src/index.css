@@ -50,7 +50,7 @@ footer p {
 
 .main{
   display: flex;
-  width:60%;
+  width:70%;
   flex-direction: column;
   justify-content: center;
   align-items: center;
