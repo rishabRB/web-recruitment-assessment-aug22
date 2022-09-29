@@ -1,12 +1,28 @@
-# Web Recruitment Assessment - August 2022
+Well I made this quiz app for web intern position! Check it out ➡️ 
 
-## **Deadline of Submission : 10th August 2022**
+> Tech stack used 
+* Front-end - ReactJS,
+* API used - [TriviaAPI](https://opentdb.com/api_config.php)
+
+> Check out the Deployed link 
+* [📎 Link](https://web-recruitment-assessment-aug22-qcdeb9whx-rishabrb.vercel.app/) 
+
+
+
+> Game as the following features 
+* You will be able to choose difficulty level of the questions
+* You will be able to choose the category of question you want 
+
+
+> Check out the resulted website 
+
 <img width="1439" alt="Screenshot 2022-08-05 at 15 16 52" src="https://user-images.githubusercontent.com/58904133/183051778-179c0a18-4a80-45f6-bcf1-07a445844379.png">
 <img width="1439" alt="Screenshot 2022-08-05 at 15 17 54" src="https://user-images.githubusercontent.com/58904133/183051788-4d145daa-9c6a-408f-8ff0-b0d54ec903be.png">
 <img width="1439" alt="Screenshot 2022-08-05 at 15 17 42" src="https://user-images.githubusercontent.com/58904133/183051797-c3ea2eff-d9dc-4ddc-87b7-e85aeb9b6b15.png">
 
 
-
+# Web Recruitment Assessment - August 2022
+## **Deadline of Submission : 10th August 2022**
 ## About Us
 
 [Ayurheals](https://ayurheals.com), India's bootstrapped online ayurvedic pharmacy, which is brought to you by the Khunteta Ayurved Bhandar & Company - one of India's most trusted ayurvedic pharmacies, with over 100 years of experience in dispensing quality medicines. At ayurheals.com, we help you look after your own health effortlessly as well as take care of loved ones wherever they may reside in India. You can buy and send medicines from any corner of the country - with just a few clicks of the mouse. We provide authentic and branded Ayurvedic, Herbal, Siddha, Unani Medicines.
